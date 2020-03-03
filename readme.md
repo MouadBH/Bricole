@@ -39,3 +39,4 @@
 
 ## Credits
 - Inspired from https://github.com/cretueusebiu/laravel-vue-spa
+# Bricole
